@@ -1,4 +1,7 @@
-# GIS1_Ashkinadze_Kloer
+# **GIS1_Ashkinadze_Kloer**
+
+# Urban Evolution of Dubai
+**A Comparative Remote Sensing Analysis from 1995 to 2024**
 
 **Abstract**
 
